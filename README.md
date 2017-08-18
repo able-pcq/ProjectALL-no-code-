@@ -14,3 +14,5 @@
   
 4. 小厨房
   项目简介和@captainwhut(https://github.com/captainwhut) 以及其他团队合作开发中
+ 
+项目上传至FTP站点 ftp://ableweb.cn/ProjectALL-no-code-/
